@@ -1,0 +1,1 @@
+const service_xbki = <T>(args: T): T => { return args; };
